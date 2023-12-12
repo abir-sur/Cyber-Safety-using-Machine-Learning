@@ -1,0 +1,7 @@
+body {
+    background-image: url('/static/cybsaf.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    color: white; 
+    font-family: Arial, sans-serif; 
+}
